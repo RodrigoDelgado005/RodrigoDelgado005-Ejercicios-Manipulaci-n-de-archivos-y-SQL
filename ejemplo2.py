@@ -1,0 +1,5 @@
+archivo = open("ejemplo.txt", "w")
+archivo.write("lista1\n")
+archivo.write("lista2\n")
+archivo.write("lista3\n")
+print(archivo)
